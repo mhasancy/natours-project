@@ -1,0 +1,19 @@
+{
+  "name": "natours-project",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhasancy/natours-project.git"
+  },
+  "author": "Mahadi Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhasancy/natours-project/issues"
+  },
+  "homepage": "https://github.com/mhasancy/natours-project#readme"
+}
